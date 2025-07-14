@@ -1,3 +1,8 @@
 # SOUMYA-RANJAN-demo
 This is a demo for Git &amp; Github class.
 
+# Teacher
+soumya
+# student
+all
+
